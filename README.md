@@ -6,8 +6,8 @@ This analysis aimed to support a Surf and Ice-cream shop investment proposal by 
 
 ## Resources
 
-** Data: hawaii.sqlite
-** Software: Python, SQLAlchemy, SQLite, Flask
+* Data: hawaii.sqlite
+* Software: Python, SQLAlchemy, SQLite, Flask
 
 
 
