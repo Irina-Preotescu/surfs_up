@@ -13,9 +13,9 @@ This analysis aimed to support a Surf and Ice-cream shop investment proposal by 
 
 ## Results
 
-** Based on the analysis, June is the most profitable month of the year for surfing and ice-cream sales.
-** Precipitation levels show that while it does indeed rain, the rain levels are not enough to have a significant negative impact on surfing and ice-cream sales.
-** Both June and December have temperatures that are comptaible with surfing and ice-cream.
+* Based on the analysis, June is the most profitable month of the year for surfing and ice-cream sales.
+* Precipitation levels show that while it does indeed rain, the rain levels are not enough to have a significant negative impact on surfing and ice-cream sales.
+* Both June and December have temperatures that are comptaible with surfing and ice-cream.
 
 
 
